@@ -1,2 +1,2 @@
 console.log("Hello")
-console.lod("Yossawat")
+console.log("Yossawat")
